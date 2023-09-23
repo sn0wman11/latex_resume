@@ -1,1 +1,1 @@
-# Simple resume template written in LaTeX
+## Simple resume template written in LaTeX
